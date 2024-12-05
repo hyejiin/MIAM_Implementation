@@ -16,16 +16,4 @@ Baseline Model
   doi={10.1109/JBHI.2022.3172549}
 }
 ```
-Dataset
-```bibtex
-@article{reyna2020early,
-  title={Early prediction of sepsis from clinical data: the PhysioNet/Computing in Cardiology Challenge 2019},
-  author={Reyna, Matthew A and Josef, Christopher S and Jeter, Russell and Shashikumar, Supreeth P and Westover, M Brandon and Nemati, Shamim and Clifford, Gari D and Sharma, Ashish},
-  journal={Critical care medicine},
-  volume={48},
-  number={2},
-  pages={210--217},
-  year={2020},
-  publisher={LWW}
-}
-```
+
