@@ -1,4 +1,4 @@
-# 2024-Fall IE552 Final Project
+# 2024-Fall IE552 
 ## Multi-view Attention-Based  Integration Learning for Irregularly-sampled Clinical Time Series
 
 
